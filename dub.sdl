@@ -1,0 +1,7 @@
+name "github-d"
+description "Github API in D"
+authors "Martin Nowak" "Seb Wilzbach"
+copyright "Copyright © 2019, Martin Nowak, Seb Wilzbach"
+license "MIT"
+dependency "vibe-d" version="~>0.8.4"
+targetType "library"
